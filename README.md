@@ -15,12 +15,8 @@ The goal of this repo is to practice modern OpenGL, C++, and graphics programmin
 ---
 
 ## Building & Running
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/learnopengl-tutorial.git
-   cd learnopengl-tutorial
+1. Clone the repository
 2. Open in CLion (or any IDE with CMake support).
-
 3. Build and run.
 
 ## Notes
